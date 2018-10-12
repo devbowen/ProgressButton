@@ -2,7 +2,7 @@
 
 - 这是一个带环形progressBar效果的Button，用于显示正在加载数据和反馈结果：   
   
-<center> ![GIF](http://oxtf52ecv.bkt.clouddn.com/blog/181012/8Fef5dmfD0.gif)  </center>  
+<div align=center>![GIF](http://oxtf52ecv.bkt.clouddn.com/blog/181012/8Fef5dmfD0.gif)  </div>  
 
 ## 使用方法
 > 使用起来非常简单，先把progressbutton文件夹的内容拷贝到合适的位置，然后   
